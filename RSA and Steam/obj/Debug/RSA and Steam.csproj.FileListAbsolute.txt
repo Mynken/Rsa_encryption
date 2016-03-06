@@ -1,0 +1,6 @@
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\bin\Debug\RSA and Steam.exe.config
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\obj\Debug\RSA and Steam.csprojResolveAssemblyReference.cache
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\bin\Debug\RSA and Steam.exe
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\bin\Debug\RSA and Steam.pdb
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\obj\Debug\RSA and Steam.exe
+c:\users\vladyslav\documents\visual studio 2015\Projects\RSA and Steam\RSA and Steam\obj\Debug\RSA and Steam.pdb
